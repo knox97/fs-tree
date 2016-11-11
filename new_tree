@@ -1,0 +1,34 @@
+
+
+ROOT
+	public_folder
+		info.json
+		js
+			test
+				test1
+			new.js
+		css
+			sass-preset
+			main.css
+		img
+			new.txt
+
+
+
+
+			TEST
+		img-new
+			tt.txt
+		next-img
+	test
+		hello
+		hi
+	one-test
+	main.js
+	new_folder
+		hello_there
+			text.txt
+	my_folder
+
+main.js
+
